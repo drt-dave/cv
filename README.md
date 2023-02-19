@@ -1,4 +1,5 @@
 [Email](mailto:davidduartef@gmail.com) |  [LinkedIn](https://www.linkedin.com/in/drt-dave/) | [GitHub](https://github.com/drt-dave/) | [Twitter](https://twitter.com/Drt__Dave/) | [Portfolio](https://drt-dave.github.io/portfolio/) 
+
 # David Duarte
  Web developer based in Barranquilla 🇨🇴  
  
@@ -28,6 +29,7 @@ I am a web developer with a strong interest in learning and growing in the progr
 - Linux
 
 > **Soft Skills**: Empathy, Continuous learning, Leadershipi, Creativity, Teamwork, Adaptability, Communication, Problem-solving, Attention to detail.
+
 ## Languages
 
 - Spanish (Native)
