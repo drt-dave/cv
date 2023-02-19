@@ -16,11 +16,11 @@ I am a web developer with a strong interest in learning and growing in the progr
 
 - Web Development Diploma, 800 hours, at Universidad Tecnológica de Pereira (2022) [MisiónTic2022](https://certificadomisionticutp.com/apiv1/public/docs/4A/_1140828060-.pdf)
 - Incomplete undergraduate studies in Industrial Engineering at Universidad del Norte (2007-2011)
-Technical Skills
 
 > I considered myself a self-taught web developer, having learned from YouTube, Platzi, FreeCodeCamp, documentation, and other web resources.
 
 ## Technical Skills
+
 - Programming Languages: HTML, CSS, JavaScript, Python
 - Frameworks: Bootstrap, React
 - Version Control Tools: Git
@@ -36,7 +36,7 @@ Technical Skills
  
 ## Work Experience
 
-- More than 6 years of experience as a storekeeper in the construction sector 👷🏽‍♂️
+- More than 6 years of experience as a storekeeper in the construction industry 👷🏽‍♂️
 - 3 years of experience as a lifeguard 🛟
 
 ## Volunteering
