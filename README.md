@@ -1,4 +1,4 @@
-[Email](mailto:davidduartef@gmail.com) |  [LinkedIn](https://www.linkedin.com/in/drt-dave/) | [GitHub](https://github.com/drt-dave/) | [Twitter](https://twitter.com/Drt__Dave/) | [Portfolio](h.....ttps://drt-dave.github.io/portfolio/) 
+[Email](mailto:davidduartef@gmail.com) |  [LinkedIn](https://www.linkedin.com/in/drt-dave/) | [GitHub](https://github.com/drt-dave/) | [Twitter](https://twitter.com/Drt__Dave/) | [Portfolio](https://drt-dave.github.io/portfolio/) 
 # David Duarte
  Web developer based in Barranquilla 🇨🇴  
  
