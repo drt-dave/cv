@@ -1,6 +1,8 @@
-[Email](mailto:davidduartef@gmail.com) |  [LinkedIn](https://www.linkedin.com/in/drt-dave/) | [GitHub](https://github.com/drt-dave/) | [Twitter](https://twitter.com/Drt__Dave/) | [Portfolio](https://drt-dave.github.io/portfolio/) 
+<link rel="stylesheet" type="text/css" href="dark-theme.css">
 
-# David Duarte
+  [LinkedIn](https://www.linkedin.com/in/drt-dave/) | [GitHub](https://github.com/drt-dave/) | [Twitter](https://twitter.com/Drt__Dave/) | [Portfolio](https://drt-dave.github.io/portfolio/) | [Instagram](https://instagram.com/drt.dave)
+
+# David Duarte 👨🏽‍💻
  Web developer based in Barranquilla 🇨🇴  
  
 ## Personal Information
@@ -15,8 +17,8 @@ I am a web developer with a strong interest in learning and growing in the progr
 
 ## Education
 
-- Web Development Diploma, 800 hours, at Universidad Tecnológica de Pereira (2022) [MisiónTic2022](https://certificadomisionticutp.com)
-- Incomplete undergraduate studies in Industrial Engineering at Universidad del Norte (2007-2011)
+- Web Development Diploma at Universidad Tecnológica de Pereira (2022) [MisiónTic2022](https://certificadomisionticutp.com)
+- Incomplete undergraduate studies in Industrial Engineering at Universidad del Norte, where I completed 7 semesters (2007-2011)
 
 > I considered myself a self-taught web developer, having learned from YouTube, Platzi, FreeCodeCamp, documentation, and other web resources.
 
@@ -28,7 +30,7 @@ I am a web developer with a strong interest in learning and growing in the progr
 - Database Management: MySQL, MongoDB
 - Linux
 
-> **Soft Skills**: Empathy, Continuous learning, Leadershipi, Creativity, Teamwork, Adaptability, Communication, Problem-solving, Attention to detail.
+> **Soft Skills**: Empathy, Continuous learning, Leadership, Creativity, Teamwork, Adaptability, Communication, Problem-solving, Attention to detail.
 
 ## Languages
 

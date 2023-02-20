@@ -1,0 +1,65 @@
+/* Cambiar el color de fondo de la página a negro */
+body {
+  background-color: #000000;
+}
+
+/* Cambiar el color del texto a blanco */
+body,
+p,
+a,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  color: #ffffff;
+}
+
+/* Cambiar el color de fondo del contenedor del README a negro */
+.markdown-body {
+  background-color: #000000;
+}
+
+/* Cambiar el color del borde del contenedor del README a blanco */
+.markdown-body {
+  border: 1px solid #ffffff;
+}
+
+/* Cambiar el color de fondo de las tablas a negro */
+.markdown-body table {
+  background-color: #000000;
+}
+
+/* Cambiar el color de fondo de las filas impares de las tablas a gris oscuro */
+.markdown-body tr:nth-child(odd) {
+  background-color: #222222;
+}
+
+/* Cambiar el color de fondo de las celdas de las tablas a gris */
+.markdown-body td,
+.markdown-body th {
+  background-color: #333333;
+}
+
+/* Cambiar el color del borde de las celdas de las tablas a blanco */
+.markdown-body td,
+.markdown-body th {
+  border: 1px solid #ffffff;
+}
+
+/* Cambiar el color del texto de los enlaces a un tono más claro de blanco */
+.markdown-body a {
+  color: #cccccc;
+}
+
+/* Cambiar el color del texto de los encabezados a un tono más claro de blanco */
+.markdown-body h1,
+.markdown-body h2,
+.markdown-body h3,
+.markdown-body h4,
+.markdown-body h5,
+.markdown-body h6 {
+  color: #cccccc;
+}
+
