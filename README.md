@@ -1,6 +1,6 @@
 <link rel="stylesheet" type="text/css" href="dark-theme.css">
 
-  [LinkedIn](https://www.linkedin.com/in/drt-dave/) | [GitHub](https://github.com/drt-dave/) | [Twitter](https://twitter.com/Drt__Dave/) | [Portfolio](https://drt-dave.github.io/portfolio/) | [Instagram](https://instagram.com/drt.dave)
+  [LinkedIn](https://www.linkedin.com/in/drt-dave/) | [GitHub](https://github.com/drt-dave/) | [Twitter](https://twitter.com/Drt__Dave/) | [Instagram](https://instagram.com/drt.dave)
 
 # David Duarte 👨🏽‍💻
  Web developer based in Barranquilla 🇨🇴  
@@ -40,6 +40,7 @@ I am a web developer with a strong interest in learning and growing in the progr
  
 ## Work Experience
 
+- [Portfolio](https://drt-dave.github.io/portfolio/)
 - More than 6 years of experience as a storekeeper in the construction industry 👷🏽‍♂️
 - 3 years of experience as a lifeguard 🛟
 
