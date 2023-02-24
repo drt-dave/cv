@@ -17,7 +17,7 @@ I am a web developer with a strong interest in learning and growing in the progr
 
 ## Education
 
-- Web Development Diploma at Universidad Tecnológica de Pereira (2022) [MisiónTic2022](https://certificadomisionticutp.com)
+- Web Development Diploma at Universidad Tecnológica de Pereira (2022) MisiónTic2022
 - Incomplete undergraduate studies in Industrial Engineering at Universidad del Norte, where I completed 7 semesters (2007-2011)
 
 > __I considered myself a self-taught web developer, having learned from YouTube, Platzi, FreeCodeCamp, documentation, and other web resources__.
@@ -27,7 +27,7 @@ I am a web developer with a strong interest in learning and growing in the progr
 - Programming Languages: __HTML__, __CSS__, __JavaScript__, Python
 - Frameworks: Bootstrap, __React__
 - Version Control Tools: __Git__
-- Database Management: __MongoDB__, __MySQL 
+- Database Management: __MongoDB__, __MySQL__ 
 - Operating Systems: __Linux__, Windows
 - Scrum methodology: Experience working in Scrum teams and understanding of Agile principles
 - Text Editors: __Vim__, VS Code
