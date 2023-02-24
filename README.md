@@ -3,7 +3,7 @@
   [LinkedIn](https://www.linkedin.com/in/drt-dave/) | [GitHub](https://github.com/drt-dave/) | [Twitter](https://twitter.com/Drt__Dave/) | [Instagram](https://instagram.com/drt.dave)
 
 # David Duarte 👨🏽‍💻
- Web developer based in Barranquilla 🇨🇴  
+ __Frontend junior developer__ based in Barranquilla 🇨🇴  
  
 ## Personal Information
 
@@ -48,4 +48,4 @@ I am a web developer with a strong interest in learning and growing in the progr
 
 ## Volunteering
 
-  Red Cross First Responder ⛑️ @ [Colombian Red Cross](https://www.cruzrojacolombiana.org) _(Jul 2015 - Present)_<br>
+  Red Cross First Responder ⛑️ (Jul 2015 - Present)<br>
