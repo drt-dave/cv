@@ -37,7 +37,7 @@ I am a web developer with a strong interest in learning and growing in the progr
 ## Languages
 
 - Spanish (Native)
-- English (B2)
+- English (B1)
 - Esperanto (A2)
  
 ## Work Experience
