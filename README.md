@@ -1,15 +1,5 @@
 <link rel="stylesheet" type="text/css" href="dark-theme.css" id="theme">
-<script>
-      function toggleTheme() {
-        var theme = document.getElementById("theme");
-        if (theme.getAttribute("href") == "dark-theme.css") {
-          theme.href = "";
-        } else {
-          theme.href = "dark-theme.css";
-        }
-      }
- </script>
-    
+ <script src="script.js"></script>
 
 
   
@@ -21,7 +11,7 @@
 ## Personal Information
 
 - Name: David Leonardo Duarte Fernández
-- Email: [davidduartef@gmail.com](davidduartef@gmail.com)
+- Email: <a href="mailto:davidduartef@gmail.com" target="_blank">davidduartef@gmail.com</a>
 - Phone: +57 3017853955
 
 ## Summary
