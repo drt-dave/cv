@@ -21,7 +21,7 @@
 ## Personal Information
 
 - Name: David Leonardo Duarte Fernández
-- Email: [davidduartef@gmail.com](davidduartef @gmail.com)
+- Email: [davidduartef@gmail.com](davidduartef@gmail.com)
 - Phone: +57 3017853955
 
 ## Summary
