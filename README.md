@@ -1,5 +1,5 @@
-<link rel="stylesheet" type="text/css" href="dark-theme.css" id="theme">
 <script src="script.js"></script>
+<link rel="stylesheet" type="text/css" href="dark-theme.css" id="theme">
 
 
   
