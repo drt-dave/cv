@@ -1,14 +1,28 @@
-<link rel="stylesheet" type="text/css" href="dark-theme.css">
+<link rel="stylesheet" type="text/css" href="dark-theme.css" id="theme">
+<script>
+      function toggleTheme() {
+        var theme = document.getElementById("theme");
+        if (theme.getAttribute("href") == "dark-theme.css") {
+          theme.href = "";
+        } else {
+          theme.href = "dark-theme.css";
+        }
+      }
+ </script>
+    
 
-  [LinkedIn](https://www.linkedin.com/in/drt-dave/) | [GitHub](https://github.com/drt-dave/) | [Twitter](https://twitter.com/Drt__Dave/) | [Instagram](https://instagram.com/drt.dave)
+   
+  
+  [LinkedIn](https://www.linkedin.com/in/drt-dave/) | [GitHub](https://github.com/drt-dave/) | [Twitter](https://twitter.com/Drt__Dave/) | ![darth]("./darth-vader.svg") <label for="themeToggle">darkmode</label><input type="checkbox" id="themeToggle" onclick="toggleTheme()" checked= "true">
 
+  
 # David Duarte 👨🏽‍💻
  __Frontend junior developer__ based in Barranquilla 🇨🇴  
  
 ## Personal Information
 
 - Name: David Leonardo Duarte Fernández
-- Email: davidduartef@gmail.com
+- Email: [davidduartef@gmail.com](davidduartef @gmail.com)
 - Phone: +57 3017853955
 
 ## Summary
