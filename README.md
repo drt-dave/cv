@@ -1,4 +1,14 @@
-<script src="script.js"></script>
+<script>
+      function toggleTheme() {
+        var theme = document.getElementById("theme");
+        if (theme.getAttribute("href") == "dark-theme.css") {
+          theme.href = "";
+        } else {
+          theme.href = "dark-theme.css";
+        }
+      }
+ </script>
+  
 <link rel="stylesheet" type="text/css" href="dark-theme.css" id="theme">
 
 
