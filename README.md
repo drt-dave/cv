@@ -11,10 +11,9 @@
  </script>
     
 
-<div class="checkbox"><label for="themeToggle">darkmode</label><input type="checkbox" id="themeToggle" onclick="toggleTheme()" checked= "true"></div>
 
   
-  [LinkedIn](https://www.linkedin.com/in/drt-dave/) | [GitHub](https://github.com/drt-dave/) | [Twitter](https://twitter.com/Drt__Dave/) |
+  [LinkedIn](https://www.linkedin.com/in/drt-dave/) | [GitHub](https://github.com/drt-dave/) | [Twitter](https://twitter.com/Drt__Dave/) |<label for="themeToggle">Darkmode</label><input type="checkbox" id="themeToggle" onclick="toggleTheme()" checked= "true">
   
 # David Duarte 👨🏽‍💻
  __Frontend junior developer__ based in Barranquilla 🇨🇴  
