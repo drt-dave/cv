@@ -11,7 +11,7 @@
  </script>
     
 
-<div><label for="themeToggle">![Darkmode](./darth-vader.svg) </label><input type="checkbox" id="themeToggle" onclick="toggleTheme()" checked= "true"></div>
+<div class="darkmode"><label for="themeToggle">darkmode</label><input type="checkbox" id="themeToggle" onclick="toggleTheme()" checked= "true"></div>
 
   
   [LinkedIn](https://www.linkedin.com/in/drt-dave/) | [GitHub](https://github.com/drt-dave/) | [Twitter](https://twitter.com/Drt__Dave/) |

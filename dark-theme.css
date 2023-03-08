@@ -93,3 +93,6 @@ h6 {
 .markdown-body h6 {
     color: var(--header-color);
 }
+.darkmode {
+  text-align: right;
+}
