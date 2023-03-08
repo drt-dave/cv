@@ -11,10 +11,10 @@
  </script>
     
 
-   
-  
-  [LinkedIn](https://www.linkedin.com/in/drt-dave/) | [GitHub](https://github.com/drt-dave/) | [Twitter](https://twitter.com/Drt__Dave/) | ![darth]("./darth-vader.svg") <label for="themeToggle">darkmode</label><input type="checkbox" id="themeToggle" onclick="toggleTheme()" checked= "true">
+<div><label for="themeToggle">![Darkmode](./darth-vader.svg) </label><input type="checkbox" id="themeToggle" onclick="toggleTheme()" checked= "true"></div>
 
+  
+  [LinkedIn](https://www.linkedin.com/in/drt-dave/) | [GitHub](https://github.com/drt-dave/) | [Twitter](https://twitter.com/Drt__Dave/) |
   
 # David Duarte 👨🏽‍💻
  __Frontend junior developer__ based in Barranquilla 🇨🇴  
